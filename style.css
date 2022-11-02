@@ -1,0 +1,37 @@
+h1 {
+    color: darkred;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px #FF0000;
+   
+}
+
+p {
+    color: rgb(51, 204, 51);
+    text-align: justify;
+    text-indent: 2000px;
+    border-top: dotted;
+    border-bottom: dotted;
+    /* border-width: medium; */
+    border-radius: 10px;
+   
+}
+
+em {
+    color: #0033cc;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+/* HECHO CON HSL
+em {
+    color: hsl(225, 100%, 40%);
+}
+*/
